@@ -1,0 +1,15 @@
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\classifier\InputClassifier.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\client\DictionaryProvider.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\client\FreeDictionaryProvider.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\client\WiktionaryProvider.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\config\ApiClientConfig.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\controller\TranslationController.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\JargonTranslatorApplication.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\DictionaryResult.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\InputType.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\JargonTranslation.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\TranslationRequest.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\TranslationResponse.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\ContextualTranslationService.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\DictionaryLookupService.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\TranslationService.java

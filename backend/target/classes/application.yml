@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: jargon-translator
+server:
+  port: 8080
+dictionary:
+  free-url: https://api.dictionaryapi.dev/api/v2/entries/en/
+  wiktionary-url: https://en.wiktionary.org/api/rest_v1/page/definition/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
