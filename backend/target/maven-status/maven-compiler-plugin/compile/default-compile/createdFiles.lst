@@ -16,3 +16,4 @@ com\company\jargontranslator\service\ContextualTranslationService.class
 com\company\jargontranslator\classifier\InputClassifier.class
 com\company\jargontranslator\service\DictionaryLookupService.class
 com\company\jargontranslator\service\ContextualTranslationService$Interpretation.class
+com\company\jargontranslator\service\MessageSummaryService.class

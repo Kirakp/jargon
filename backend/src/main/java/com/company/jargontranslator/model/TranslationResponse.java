@@ -1,7 +1,7 @@
 package com.company.jargontranslator.model;
 
 import java.util.List;
-public record TranslationResponse(String originalText, InputType inputType, String plainMeaning,
+public record TranslationResponse(String originalText, InputType inputType, String summary, String plainMeaning,
                                   String professionalExplanation, String suggestedReply,
                                   List<DictionaryResult> dictionaryResults,
                                   List<JargonTranslation> jargonTranslations,

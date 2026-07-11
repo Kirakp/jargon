@@ -6,3 +6,5 @@
 .voice-row { display: flex; align-items: center; gap: 10px; margin-top: 12px; color: #68756c; font-size: .8rem; } .voice { background: #e8efe9; color: #315b44; } .voice.listening { background: #8f342e; color: #fff; } .voice:disabled { cursor: not-allowed; }
 
 .speak { margin: 4px 0 18px; background: #365a80; }
+
+.summary { background: #edf4eb; border: 1px solid #d5e2d2; border-radius: 10px; padding: 16px; margin: 16px 0; }

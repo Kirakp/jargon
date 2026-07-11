@@ -12,4 +12,5 @@ D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\TranslationRe
 D:\Scaler\backend\src\main\java\com\company\jargontranslator\model\TranslationResponse.java
 D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\ContextualTranslationService.java
 D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\DictionaryLookupService.java
+D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\MessageSummaryService.java
 D:\Scaler\backend\src\main\java\com\company\jargontranslator\service\TranslationService.java
