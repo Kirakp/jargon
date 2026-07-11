@@ -4,3 +4,5 @@
 .translations { margin-top: 22px; } .translations > h2 { margin-bottom: 10px; } .translation { background: #f2f6ef; border: 1px solid #d9e3d6; border-radius: 10px; padding: 16px; margin: 10px 0; } .translation h3 { margin: 0 0 10px; color: #315b44; text-transform: capitalize; font-size: 1.05rem; } .translation p { margin: 7px 0; }
 
 .voice-row { display: flex; align-items: center; gap: 10px; margin-top: 12px; color: #68756c; font-size: .8rem; } .voice { background: #e8efe9; color: #315b44; } .voice.listening { background: #8f342e; color: #fff; } .voice:disabled { cursor: not-allowed; }
+
+.speak { margin: 4px 0 18px; background: #365a80; }
